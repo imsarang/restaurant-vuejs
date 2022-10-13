@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "email": "sarang@gmail.com",
+      "name": "sarang",
+      "password": "sarang",
+      "id": 1
+    },
+    {
+      "email": "sarang1@gmail.com",
+      "name": "sarang1",
+      "password": "sarang1",
+      "id": 2
+    },
+    {
+      "email": "sarang2@gmail.com",
+      "name": "sarang2",
+      "password": "sarang2",
+      "id": 3
+    },
+    {
+      "email": "sarang3@gmail.com",
+      "name": "sarang3",
+      "password": "sarang3",
+      "id": 4
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 2,
+      "name": "Burger King",
+      "address": "BDA Complex",
+      "contact": "9999994567"
+    },
+    {
+      "id": 3,
+      "name": "Dominos",
+      "address": "banshankari,near taza thindi",
+      "contact": "4569999999"
+    }
+  ]
+}
